@@ -1,3 +1,5 @@
+package baekJoon;
+
 public class B2557 {
     public static void main(String[] args) {
         String startJava = "Hello World!";

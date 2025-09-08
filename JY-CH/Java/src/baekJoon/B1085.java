@@ -1,3 +1,5 @@
+package baekJoon;
+
 import java.io.BufferedReader;
 import java.io.OutputStreamWriter;
 import java.io.InputStreamReader;

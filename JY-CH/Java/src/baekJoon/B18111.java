@@ -1,6 +1,6 @@
-//import java.util.Scanner;
+package baekJoon;//import java.util.Scanner;
 //
-//public class B18111 {
+//public class baekJoon.B18111 {
 //    public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);
 //

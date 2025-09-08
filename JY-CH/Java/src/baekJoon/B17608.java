@@ -1,3 +1,5 @@
+package baekJoon;
+
 import java.util.*;
 
 public class B17608 {

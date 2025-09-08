@@ -1,3 +1,5 @@
+package baekJoon;
+
 public class B10170 {
     public static void main(String[] args) {
         System.out.println("NFC West       W   L  T");
